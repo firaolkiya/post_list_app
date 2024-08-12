@@ -1,6 +1,8 @@
 # infinite_list
 
 A new Flutter project.
+## Screenshoot of the app  
+https://github.com/user-attachments/assets/0a0eee55-de31-41db-b2c0-6d812caabd17
 
 ## Getting Started
 
